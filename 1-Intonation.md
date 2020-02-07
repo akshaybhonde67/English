@@ -46,23 +46,23 @@ Figure out the word stress and answer if its a statement or question<br>
 ### 4. Questions & intonation - up or down?
 
 How to know the intonation of questions?  Yes/no questions go up in pitch at the end, while other questions go down in pitch.  
-questions starting with did, do/does, is, can go up in pitch
-all other questions go down in pitch
+questions starting with did, do/does, is, can go up in pitch<br>
+all other questions go down in pitch<br>
 
-eg.
-	did you go to the party(up)? 
-	what did you bring to the party(down)?
-	did you pick up the groceries(up)?
-	does the store open up at one(up)?
-	can you lend me a dollar(up)?
-	how are you(down)?
-	why did you leave(down)?
-	where are the keys(down)?
-	who are you calling(down)?
-	which one did you buy(down)?
-	can I borrow your book(up)?
-	where is your book(down)?
-	did you go to the show(up)?
-	how was the show(down)?
-	did you see amanda(up)?
-	when did you see amanda(down)?
+eg.<br>
+	did you go to the party(up)? <br>
+	what did you bring to the party(down)?<br>
+	did you pick up the groceries(up)?<br>
+	does the store open up at one(up)?<br>
+	can you lend me a dollar(up)?<br>
+	how are you(down)?<br>
+	why did you leave(down)?<br>
+	where are the keys(down)?<br>
+	who are you calling(down)?<br>
+	which one did you buy(down)?<br>
+	can I borrow your book(up)?<br>
+	where is your book(down)?<br>
+	did you go to the show(up)?<br>
+	how was the show(down)?<br>
+	did you see amanda(up)?<br>
+	when did you see amanda(down)?<br>
