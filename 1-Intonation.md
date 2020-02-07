@@ -4,44 +4,44 @@ Stressed words are the content words:  nouns, verbs, adverbs, adjectives.  But w
 You can skip the T between two other consonants.  So it's ok to skip in a phrase like 'just dance' or a word like 'exactly'.<br>
 In general American English goes does in pitch in a sentence.<br>
 
-eg. 
-	I'll be "home"(more pitch, more volume, more stress)  by 3. 
+eg. <br>
+	I'll be "home"(more pitch, more volume, more stress)  by 3. <br>
     Last night I drove the car "home"(low pitch, low in volume, low stress).
     
 ### 2. Stress a syllable
 
-glides from low to high to low instead of being flat eg hello, yes, yes-ter-day
-practice sentence underpaced gliding from pitch to pitch eg Hey, how are you?
+glides from low to high to low instead of being flat eg hello, yes, yes-ter-day<br>
+practice sentence underpaced gliding from pitch to pitch eg Hey, how are you?<br>
 then speed it up (but dont switch to speaking mode) by taking the stretched, gliding from pitch to pitch speech and speed that up
 
 ### 3. Word stress in statements vs questions
 
-eg. 
-	statement - I'll(high) be there by three(low)
-	question - Have(low) you seen Mary?(high)
+eg. <br>
+	statement - I'll(high) be there by three(low)<br>
+	question - Have(low) you seen Mary?(high)<br>
    
-eg. 
-	you(high) know what I mean(low) - statement
-	you(low) know what I mean(high)? - question
+eg. <br>
+	you(high) know what I mean(low) - statement<br>
+	you(low) know what I mean(high)? - question<br>
    
-   same word but stressing at different positions can make it a statement or a question
+   same word but stressing at different positions can make it a statement or a question<br>
    
-eg.
-	someone asks - who can help me tomorrow? you say - me (statement - it means you can help them) voice goes down in pitch
+eg.<br>
+	someone asks - who can help me tomorrow? you say - me (statement - it means you can help them) voice goes down in pitch<br>
 	someone stares at you and says - who can help me tomorrow? you say - me? (question - you are like are they asking you specifically 
-                                                                  and you want to confirm so you ask a question) voice goes up in pitch
+                                                                  and you want to confirm so you ask a question) voice goes up in pitch<br>
 
-eg. 
-	see you tomorrow (statement)(high to low)
-	see you tomorrow? (question)(low to high)
+eg. <br>
+	see you tomorrow (statement)(high to low)<br>
+	see you tomorrow? (question)(low to high)<br>
 
-Figure out the word stress and answer if its a statement or question
-	you're coming at three? - question
-	he saw her yesterday - statement
-	we're going - statement
-    we're going? - question
-    They said no - statement
-	we'll see them monday? - question
+Figure out the word stress and answer if its a statement or question<br>
+	you're coming at three? - question<br>
+	he saw her yesterday - statement<br>
+	we're going - statement<br>
+    we're going? - question<br>
+    They said no - statement<br>
+	we'll see them monday? - question<br>
    
 ### 4. Questions & intonation - up or down?
 
