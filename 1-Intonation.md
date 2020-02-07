@@ -1,8 +1,8 @@
 ### 1. Word Stress in sentence position
 
-Stressed words are the content words:  nouns, verbs, adverbs, adjectives.  But with that in mind, different people will stress differently.  There's no one right way to stress.
-You can skip the T between two other consonants.  So it's ok to skip in a phrase like 'just dance' or a word like 'exactly'.
-In general American English goes does in pitch in a sentence.
+Stressed words are the content words:  nouns, verbs, adverbs, adjectives.  But with that in mind, different people will stress differently.  There's no one right way to stress.<br>
+You can skip the T between two other consonants.  So it's ok to skip in a phrase like 'just dance' or a word like 'exactly'.<br>
+In general American English goes does in pitch in a sentence.<br>
 
 eg. 
 	I'll be "home"(more pitch, more volume, more stress)  by 3. 
