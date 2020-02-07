@@ -78,3 +78,14 @@ eg.<br>
 	My mom(up), dad(up), little stister(up) and grandma(down) are visiting next week.<br>
 	I dusted(up), vaccummed(up) and straightened(down) the liveing room.<br>
 	She just got back from Spain(up), Portugal(up) and France(down).<br>
+	
+
+### 6. Intonation
+stress syllables will be higher in pitch, a little stretched out and louder<br>
+content words will be stressed<br>
+function words will be unstressed<br>
+statements start higher in pitch and end lower while questions are opposite<br>
+intonation can convey meaning<br>
+eg.<br>
+	I am dropping out of school - are you serious (passing judgement)<br>
+	I am dropping out of school - are you serious? (voicing concern)<br>
