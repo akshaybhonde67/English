@@ -66,3 +66,15 @@ eg.<br>
 	how was the show(down)?<br>
 	did you see amanda(up)?<br>
 	when did you see amanda(down)?<br>
+	
+### 5. Word Stress and Lists
+
+Each item goes up in pitch until the final item that goes down in pitch<br>
+Dont forget the small pause for the commas<br>
+
+eg.<br>
+	Iam taking you(up), dan(up) and cindy(down) to the party.<br>
+	You can have cereal(up), pancakes(up) or oatmeal(down).<br>
+	My mom(up), dad(up), little stister(up) and grandma(down) are visiting next week.<br>
+	I dusted(up), vaccummed(up) and straightened(down) the liveing room.<br>
+	She just got back from Spain(up), Portugal(up) and France(down).<br>
