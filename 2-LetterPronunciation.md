@@ -1,53 +1,53 @@
-through - θru 
-though - ðoʊ 
-thought - θɔt
-bought - bɑt 
-bough - baʊ 
-cough	- kɑf
+through - θru <br>
+though - ðoʊ <br>
+thought - θɔt <br>
+bought - bɑt <br>
+bough - baʊ <br>
+cough	- kɑf<br>
 
-Y
-syringe - səˈrɪnʤ 
-you - ju 
-my - maɪ 
-busy - bɪzi	
+Y<br>
+syringe - səˈrɪnʤ <br>
+you - ju <br>
+my - maɪ <br>
+busy - bɪzi	<br>
 
-A
-exact - ɪgˈzækt ˈ
-father - fɑðər 
-about - əˈbaʊt 
-fall - fɔl 
-able - eɪbəl 
-share - ʃɛr 
-private	- praɪvit
+A<br>
+exact - ɪgˈzækt <br>
+father - fɑðər <br>
+about - əˈbaʊt <br>
+fall - fɔl <br>
+able - eɪbəl <br>
+share - ʃɛr <br>
+private	- praɪvit<br>
 
-I
-him - hɪm 
+I<br>
+him - hɪm <br>
 time - taɪm 
 police - pəˈlis 
 timbre -ˈtaembər 
 senior - sinjər 
 possible - pɑsəbəl
 
-E
-shed - ʃɛd 
-be - bi 
-pretty - prɪdi 
-anthem - ˈænθəm 
-sergeant - sɑrʤənt 
-cafe - kəˈfeɪ
+E<br>
+shed - ʃɛd <br>
+be - bi <br>
+pretty - prɪdi <br>
+anthem - ˈænθəm <br>
+sergeant - sɑrʤənt <br>
+cafe - kəˈfeɪ<br>
 
-U
-autumn - ɔtəm 
-union - junjən 
-up - ʌp
-bury - bɛri 
-sugar - ʃʊgər 
-flute - flut 
-suite - swit 
-minute - mɪnət	ˈ
+U<br>
+autumn - ɔtəm <br>
+union - junjən <br>
+up - ʌp<br>
+bury - bɛri <br>
+sugar - ʃʊgər <br>
+flute - flut <br>
+suite - swit <br>
+minute - mɪnət	ˈ<br>
 
-S 
-some - sʌm 
-his - hɪz 
-sugar - ʃʊgər
-measure - mɛʒər
+S <br>
+some - sʌm <br>
+his - hɪz <br>
+sugar - ʃʊgər<br>
+measure - mɛʒər<br>
