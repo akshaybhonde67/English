@@ -22,11 +22,11 @@ private	- praɪvit<br>
 
 I<br>
 him - hɪm <br>
-time - taɪm 
-police - pəˈlis 
-timbre -ˈtaembər 
-senior - sinjər 
-possible - pɑsəbəl
+time - taɪm <br>
+police - pəˈlis <br>
+timbre -ˈtaembər <br>
+senior - sinjər <br>
+possible - pɑsəbəl<br>
 
 E<br>
 shed - ʃɛd <br>
