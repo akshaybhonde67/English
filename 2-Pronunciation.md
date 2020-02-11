@@ -5,6 +5,20 @@ bought - bɑt <br>
 bough - baʊ <br>
 cough	- kɑf<br>
 
+(focus on stop T in middle)<br>
+center - cener<br><br>
+mountain - maʊn tən<br>
+curtain - kɜr tən<br>
+sentence - sɛnt əns<br>
+cotton - kɑtən <br>
+fountain - faʊntən<br>
+kitten -	kɪtən<br>
+button -	bʌtən<br>
+written -	rɪtən<br>
+clinton -	klɪntən<br>
+Manhatton -	Manhatton<br>
+
+
 interesting -	ˈɪntrəstɪŋ ch sound at tre <br>
 comfortable	- kʌmf-tər-bəl pronunce tar as der<br>
 wanted - wɔnɪd<br>
