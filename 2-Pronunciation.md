@@ -17,18 +17,18 @@ button -	bʌtən<br>
 written -	rɪtən<br>
 clinton -	klɪntən<br>
 Manhatton -	Manhatton<br>
-echelon - ˈɛʃəˌlɑn
-acai - asa e
-mischievous - mɪs ʧə vəs
-triathlon - traɪˈæθlən
-facade - fəˈsɑd
-vague - veɪg
-vogue	- voʊg
-Cognac - ˈkoʊnˌjæk
-draught -	dræft
-drought -	draʊt
-Worcestershire - ˈwʊs.tɚ.ʃɚ
-new hampshire	- newˈhæmpʃər
+echelon - ˈɛʃəˌlɑn<br>
+acai - asa e<br>
+mischievous - mɪs ʧə vəs<br>
+triathlon - traɪˈæθlən<br>
+facade - fəˈsɑd<br>
+vague - veɪg<br>
+vogue	- voʊg<br>
+Cognac - ˈkoʊnˌjæk<br>
+draught -	dræft<br>
+drought -	draʊt<br>
+Worcestershire - ˈwʊs.tɚ.ʃɚ<br>
+new hampshire	- newˈhæmpʃər<br>
 
 
 
