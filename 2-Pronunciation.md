@@ -47,6 +47,8 @@ draught -	dræft<br>
 drought -	draʊt<br>
 Worcestershire - ˈwʊs.tɚ.ʃɚ<br>
 new hampshire	- newˈhæmpʃər<br>
+module -ˈmɑʤul<br>
+
 
 
 
